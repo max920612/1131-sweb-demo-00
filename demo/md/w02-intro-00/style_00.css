@@ -1,0 +1,13 @@
+body {
+    background-color: #8fb167;
+}
+
+.contanier {
+    background-color: #f4f1f1;
+    max-width: 500;
+    max-width: 750px;
+    width: 300%;
+    margin: 30px auto;
+    border: 3px solid purple;
+    padding: 30px 30px 30px 20px;
+}
