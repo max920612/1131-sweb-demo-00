@@ -86,8 +86,8 @@ letter-spacing: 1px;
     }
 }
     
-@media screen and (min-width: 550px) {
+@media screen and (min-width: 800px) {
     .blogs-center {
-        grid-template-columns: 4fr 4fr 4fr;
+        grid-template-columns: 1fr 1fr 1fr;
     }
 }

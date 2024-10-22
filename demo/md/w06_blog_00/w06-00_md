@@ -9,18 +9,32 @@
 df1a7ac max920612 Thu Oct 17 19:56:19 2024 +0800  W06-P1: Create a blog, using html and css as specified
 ```
 
-### W03-P2: Show btn and btn-1 class selector in DevTools compare to that in HTML and CSS
+### W06-P2: Show 2 blogs in a row with media query min-width: 550px
 
 ![](w06-p2.png)
 
 ```
-c541d15 max920612 Thu Sep 26 20:11:58 2024 +0800  W03-P2: Show btn and btn-1 class selector in DevTools compare to that in HTML and CSS
+982ee2f max920612 Thu Oct 17 20:37:37 2024 +0800  W06-P2: Show 2 blogs with media query min-width: 550px
 ```
 
-### W03-P3: Show 2 photos with the same height, remain photo ration, and show .img class selector
+### W06-P3: Show 3 blogs in a row with media query min-width: 800px
 
 ![](w06-p3.png)
 
 ```
-b4c9af7 max920612 Thu Oct 3 21:36:46 2024 +0800   Show 2 photos with the same height, remain photo ration, and show .img class selector
+2d89eb1 max920612 Thu Oct 17 20:46:00 2024 +0800  W06-P3: Show 3 blogs in a row with media query min-width: 800px
 ```
+
+### W06-P4: Show 4~6 blogs in a row with media query. You need to determine the min-width for each.
+
+#### => 4 blogs in a row
+ 
+![](w06-p4-1.png)
+
+#### => 5 blogs in a row
+ 
+![](w06-p4-2.png)
+
+#### => 6 blogs in a row
+ 
+![](w06-p4-3.png)
