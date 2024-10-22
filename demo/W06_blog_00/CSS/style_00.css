@@ -91,3 +91,22 @@ letter-spacing: 1px;
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
+
+@media screen and (min-width: 800px) {
+    .blogs-center {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .blogs-center {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .blogs-center {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
