@@ -27,14 +27,22 @@ df1a7ac max920612 Thu Oct 17 19:56:19 2024 +0800  W06-P1: Create a blog, using h
 
 ### W06-P4: Show 4~6 blogs in a row with media query. You need to determine the min-width for each.
 
+
+
 #### => 4 blogs in a row
+
  
+
 ![](w06-p4-1.png)
 
+
+
 #### => 5 blogs in a row
+
  
+
 ![](w06-p4-2.png)
 
+
+
 #### => 6 blogs in a row
- 
-![](w06-p4-3.png)
