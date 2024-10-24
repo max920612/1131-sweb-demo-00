@@ -92,19 +92,19 @@ letter-spacing: 1px;
     }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1000px) {
     .blogs-center {
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1200px) {
     .blogs-center {
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1500px) {
     .blogs-center {
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     }
