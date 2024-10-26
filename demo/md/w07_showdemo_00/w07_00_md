@@ -36,3 +36,18 @@
 ```
 12f2d64 max920612 Thu Oct 24 19:39:02 2024 +0800  W07-P3: Connect your Github repo to Vercel and have a root home page to class demo navigation
 ```
+
+### W07-P4: Create navbar with links to class demo w02, w03, w06, and deploy it to Vercel
+ 
+#### => local
+ 
+![](w07-p4-1.png)
+ 
+#### => Vercel
+ 
+![](w07-p4-2.png)
+ 
+```
+d85856b max920612 Thu Oct 24 20:51:53 2024 +0800  W07-P4: Create navbar with links to class demo w02, w03, w06, and deploy it to Vercel
+```
+ 
