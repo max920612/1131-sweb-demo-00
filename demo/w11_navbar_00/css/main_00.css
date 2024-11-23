@@ -244,7 +244,7 @@ ul {
 }
 
 .nav {
-  background: var(--grey-300);
+  background: var(--white);
   box-shadow: var(--shadow-2);
   line-height: 1;
 }
@@ -283,6 +283,7 @@ ul {
   padding: 0.75rem 1rem;
   display: block;
   letter-spacing: var(--letterSpacing);
+  transition: var(--transition);
 }
 .nav-links a:hover {
   background: var(--primary-300);
@@ -301,14 +302,14 @@ ul {
     align-items: center;
     margin: 0 auto;
   }
-  .navlinks {
+  .nav-links {
     display: flex;
   }
-  .navlinks a {
+  .nav-links a {
     padding: 0;
-    margin: 0;
+    margin: 0 0.5rem;
   }
-  .navlinks a:hover {
+  .nav-links a:hover {
     padding: 0;
     background: transparent;
     padding-bottom: 3px;
