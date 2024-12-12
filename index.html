@@ -13,6 +13,7 @@
     /> -->
     <link rel="stylesheet" href="./css/all.min.css" />
     <link rel="stylesheet" href="./css/megaMenu.css" />
+    <link rel="stylesheet" href="./css/class demo_00.css" />
     <title>Mega and Dropdown Menu</title>
   </head>
   <body>
@@ -28,16 +29,19 @@
             <li class="menu-item"><a href="#" class="active">Home</a></li>
 
             <li class="menu-item mega-menu">
-              <a href="#">Mega menu +</a>
+              <a href="#">ClassDemo +</a>
               <div class="mega-menu-wrapper slideInUp">
                 <div class="mega-menu-col">
-                  <h5>Menu block 1</h5>
+                  <h5>W1~W7</h5>
                   <ul class="mega-sub-menu">
-                    <li><a href="#">Menu block item 1</a></li>
-                    <li><a href="#">Menu block item 2</a></li>
-                    <li><a href="#">Menu block item 3</a></li>
-                    <li><a href="#">Menu block item 4</a></li>
-                    <li><a href="#">Menu block item 5</a></li>
+                    <li onclick="showClassDemo('w02-intro-00')">
+                      <a href="#">w02-intro-00</a></li>
+                    <li onclick="showClassDemo('W03_card_00')">
+                      <a href="#">W03_card_00</a></li>
+                    <li onclick="showClassDemo('W06_blog_00')">
+                      <a href="#">W06_blog_00</a></li>
+                    <li onclick="showClassDemo('w07_nav_00')">
+                      <a href="#">W07_nav_00</a></li>
                   </ul>
                 </div>
                 <div class="mega-menu-col">
@@ -165,12 +169,11 @@
       </div>
     </header>
 
-    <section class="hero">
-      <div class="container">
-        <h1>Awesome Mega Menu</h1>
-      </div>
+    <section class="show-classdemo">
+    
     </section>
 
     <script src="./js/megaMenu.js"></script>
+    <script src="./js/class demo.js"></script>
   </body>
 </html>
